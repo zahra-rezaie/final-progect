@@ -153,6 +153,6 @@ gap: 20px;
 margin-left:auto;margin-right:auto; background-image: url(p/21.jpg);
 background-repeat: no-repeat;
 background-size: cover;
-       width: 100%; height:400px;
+       width: 100%;  background-attachment: fixed;
        color:white;}
 
