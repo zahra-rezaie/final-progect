@@ -150,9 +150,6 @@ gap: 20px;
 #time{text-align: center;font-size: xx-large;}
 .ourimg a{background-color: rgb(233, 123, 59);color: white;padding: 5px 40px;border-radius: 25px 25px;}
 .thank{text-align: center;
-margin-left:auto;margin-right:auto; background-image: url(p/21.jpg);
-background-repeat: no-repeat;
-background-size: cover; background-attachment: fixed;
-       width: 100%;  
+margin-left:auto;margin-right:auto; background-color:skyblue;
        color:white;}
 
