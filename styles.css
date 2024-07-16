@@ -151,8 +151,7 @@ gap: 20px;
 .ourimg a{background-color: rgb(233, 123, 59);color: white;padding: 5px 40px;border-radius: 25px 25px;}
 .thank{text-align: center;
 margin: 0 auto; background-image: url(p/21.jpg);
-width: 100%;
 background-repeat: no-repeat;
-background-size: cover;
+background-size: cover;width: 100%;
        color:white;}
 
